@@ -52,7 +52,7 @@
 <div id="badges" align="center">
   <br><br>
   <a href="https://www.linkedin.com/in/suhrob-fayzullayev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
   </a>&nbsp;
   <a href="https://www.twitter.com/engineer_suhrob">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
