@@ -1,7 +1,3 @@
-
-
-
-
 # Hi :wave:, I'm Suhrob !
 
 ### A few things about me
