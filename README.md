@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TailwindCSS" alt="Typescript" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
   <img src="https://windicss.org/assets/logo.svg" title="WindiCss" alt="WindiCss" width="50" height="50" />&nbsp;
   <img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" title="AlpireJs" alt="AlpireJs" width="40" height="40" />&nbsp;
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-3882e.appspot.com/o/5847f981cef1014c0b5e48be.png?alt=media&token=6af7ade1-a44b-4599-9804-ad8a92aa035e" title="Git" alt="Git" width="40" height="40"/>&nbsp;
