@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TailwindCSS" alt="Typescript" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
   <img src="https://windicss.org/assets/logo.svg" title="WindiCss" alt="WindiCss" width="50" height="50" />&nbsp;
   <img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" title="AlpireJs" alt="AlpireJs" width="40" height="40" />&nbsp;
